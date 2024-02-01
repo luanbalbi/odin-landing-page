@@ -49,6 +49,7 @@ a {
 .hero-section {
     display: flex;
     padding: 24px 0 48px 0 ;
+    gap: 16px;
 }
 
 .hero-button,.action-button {
